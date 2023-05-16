@@ -1,19 +1,34 @@
-<h1 style="font-weight: bold">Navjot Singh, 
+<h1 align="center" style="font-weight: bold;">Navjot Singh </h1>
+<h3 align="center">
 <span style="font-weight: normal ; font-size: 18px"> 
-<span style="color: red;" >I </span> know a guy who knows a guy who can <span style="color: red;" >debug</span>  anything. And I mean <span style="color: red;" >anything</span> 
+<span style="color:red; " > <b><em>[I]</em></b> </span> know a guy who knows a guy who can <span style="color: red;" ><em>[debug]</em></span>  anything. And I mean <span style="color: red;" ><em>[anything]</em></span> 
 </span>  
-</h1>
-<br>
-![![NavjotSingh](https://github.com/thenavjotsingh/thanavjotsingh/assets/20323223/e08345db-45a6-41eb-88be-6c73166a04c3)
-
-<p align="" style=""> 
-Channeling my inner Saul Goodman to solve complex programming problems. Sometimes the best solutions are the ones that are a little unconventional. 
+</h3>
 <br>
 
 
-<span style="font-size: 25px">👋🏽</span>Hello visitor!! CS graduate student <span style="font-size: 25px">💻 👨🏽‍🎓</span>, experienced software engineer 👨🏽‍💻, cinemetagraphy and photography
-<span style="font-size: 25px">🎥 📸 </span>enthusiast 
-</p> 
+
+
+<p  style=""> 
+Channeling my inner Saul Goodman to solve complex programming problems.  
+  Sometimes the best solutions are the ones that are a little unconventional. </p> 
+    
+<br>
+<img src="https://github.com/thenavjotsingh/thanavjotsingh/assets/20323223/5204d728-dfd4-4251-9b05-c71a4406ac02"/>
+<br>
+<br>
+
+<p><span style="font-size: 25px">  </span>Hello visitor 👋🏽, my name is Navjot Singh and I am: </p>
+    <ul>
+  <li> CS Graduate Student <span style="font-size: 25px">💻 👨🏽‍🎓</span></li>
+  <li>Experienced Software Engineer 👨🏽‍💻</li>
+      <li>Polyglot Developer 👨🏽‍💻;</li>
+  <li>Cinemetagraphy and photography
+    <span style="font-size: 25px">🎥 📸 </span>enthusiast</li>
+      <li>An avid biker and travel enthusiast 🚌🏍</li>
+    </ul>
+  
+
 <br>
 <br>
 <div align=center >
@@ -26,12 +41,6 @@ font-size:16px">Email Me</a>
 
 <br>
 <br>
-
-<!-- > 
-/Users/navjot/Downloads/NavjotSingh.gif
-languages section
-<-->
-
 
 <h2 style="color: #44AEFB">⚙️ 📝 Languages and Tools</h2>
 <div align="center" style="display:block;">
@@ -50,14 +59,14 @@ languages section
       <img  alt="Go" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
   </a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-      <img  alt=".net " height="50px" style="padding-right:10px;" src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+      <img  alt=".net " height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
   </a>
 
   <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
-      <img  alt=".net core" height="50px" style="padding-right:10px;" src="   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>  
+      <img  alt=".net core" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>  
   </a>
    <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
-      <img  alt="c#" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg/">   
+      <img  alt="c#" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>   
   </a>  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
