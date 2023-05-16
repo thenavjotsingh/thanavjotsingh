@@ -4,7 +4,8 @@
 </span>  
 </h1>
 <br>
-![Alt Text](images/NavjotSingh.gif)
+![![NavjotSingh](https://github.com/thenavjotsingh/thanavjotsingh/assets/20323223/e08345db-45a6-41eb-88be-6c73166a04c3)
+
 <p align="" style=""> 
 Channeling my inner Saul Goodman to solve complex programming problems. Sometimes the best solutions are the ones that are a little unconventional. 
 <br>
